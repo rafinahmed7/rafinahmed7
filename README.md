@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rafin Ahmed
-#### Front-End Web Developer
+# Hi there 👋, I'm Rafin Ahmed
+## Front-End Web Developer
 👋 Hi, I'm Rafin!
 A passionate front-end developer and coding enthusiast from Bangladesh. Currently, I'm learning and improving my skills in HTML, CSS, and JavaScript. I love building websites and experimenting with new technologies.
 
