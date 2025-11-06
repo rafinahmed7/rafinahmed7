@@ -1,4 +1,4 @@
-![github]([https://pbs.twimg.com/profile_banners/1740349466266550272/1735372928/600x200](https://pbs.twimg.com/profile_banners/1740349466266550272/1762453336/1080x360))
+![github]([[https://pbs.twimg.com/profile_banners/1740349466266550272/1735372928/600x200])
 
 
 ([link](https://rafinahmed007.blogspot.com/)) See My Portfoilo
