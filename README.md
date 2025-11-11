@@ -11,14 +11,14 @@ A passionate front-end developer and coding enthusiast from Bangladesh. Currentl
 - JavaScript and modern frameworks
 
 🌱 Learning Goals:
-1.Become proficient in front-end development
-2.Contribute to open-source projects
-3.Build and deploy my personal projects
+- Become proficient in front-end development
+- Contribute to open-source projects
+- Build and deploy my personal projects
 
 💬 Connect with me:
-1. E-mail: rafinahmed668@gmail.com
-2.Follow my journey on YouTube at CodeHunter BD
-3.Feel free to reach out if you're interested in collaboration or just want to chat about coding!
+- E-mail: rafinahmed668@gmail.com
+- Follow my journey on YouTube at CodeHunter BD
+- Feel free to reach out if you're interested in collaboration or just want to chat about coding!
 
 Skills:  JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
