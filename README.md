@@ -8,9 +8,9 @@
 A passionate front-end developer and coding enthusiast from Bangladesh. Currently, I'm learning and improving my skills in HTML, CSS, and JavaScript. I love building websites and experimenting with new technologies.
 
 🔭 Currently Learning:
-1.Advanced CSS techniques
-2.Responsive web design
-3.JavaScript and modern frameworks
+- Advanced CSS techniques
+- Responsive web design
+- JavaScript and modern frameworks
 
 🌱 Learning Goals:
 1.Become proficient in front-end development
